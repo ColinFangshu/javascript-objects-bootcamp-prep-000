@@ -1,3 +1,5 @@
 var playlist = {Ladygaga:"shallow"};
 
-function 
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
